@@ -1,4 +1,4 @@
-public class Sol1 {
+public class Loop1 {
     
     public static void main(String[] args) throws Exception{
         for (int i=0; i<7; i++){
